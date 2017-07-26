@@ -96,3 +96,5 @@ google_cse:
 ## title: search
 ## ---
 
+highlight:
+  enable: true
