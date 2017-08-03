@@ -98,3 +98,9 @@ google_cse:
 
 highlight:
   enable: true
+
+disqus: 
+  #on: true
+  shortname: wz2cool
+
+disqus_shortname: wz2cool
